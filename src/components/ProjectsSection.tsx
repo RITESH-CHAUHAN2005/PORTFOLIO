@@ -16,25 +16,25 @@ const projects = [
     title: "E-Commerce Platform",
     description:
       "Developed an eCommerce website for Vidyapeeth to showcase and sell educational materials, courses, and merchandise.",
-    tags: ["TypeScript", "Bootstrap", "Tailwind CSS"],
+    tags: ["TypeScript", "Bootstrap", "Tailwind CSS", "Wordpress"],
     image: "/vidypeeth.jpg",
-    repoUrl: "#",
+    repoUrl: "https://vidyapeeth.org.in/",
   },
   {
-    title: "App Design",
+    title: "MDM Consulting",
     description:
-      "Designed a sleek and user-friendly mobile app called ClubReads using Figma. The app is focused on connecting book lovers.",
-    tags: ["Figma"],
-    image: "/clubreads.jpg",
-    repoUrl: "#",
+      "MDM Consulting is a professional consultancy website offering expert business solutions tailored to client needs.",
+    tags: ["HTML", "CSS", "JavaScript", "React", "Responsive Design", "UI/UX"],
+    image: "/mdmconsulting.jpg",
+    repoUrl: "https://github.com/RITESH-CHAUHAN2005/MDM-Consulting.git",
   },
   {
-    title: "Simon Game",
+    title: "Dukaan",
     description:
-      "Created a fun and interactive Simon Game using HTML, CSS, and JavaScript. Features color sequence logic, and responsive design.",
-    tags: ["HTML", "CSS", "JavaScript"],
-    image: "/simon.jpg",
-    repoUrl: "#",
+      "Dukaan is a sustainable e-commerce platform focused on eco-friendly products, empowering users to shop consciously while understanding their environmental impact.",
+    tags: ["JavaScript", "React", "Eco-Friendly", "Design", "Sustainable Shopping", "Responsive Design", "UI/UX"],
+    image: "/Dukan.jpg",
+    repoUrl: "https://github.com/RITESH-CHAUHAN2005/Dukaan.git",
   },
 ];
 
