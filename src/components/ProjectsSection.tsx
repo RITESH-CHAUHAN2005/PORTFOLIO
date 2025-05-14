@@ -5,12 +5,12 @@ import { Button } from "@/components/ui/button";
 
 const projects = [
   {
-    title: "AI Code Reviewer",
+    title: "SoftSell",
     description:
-      "Integrated an AI-powered code reviewer to analyze code quality, suggest improvements, and catch potential bugs.",
-    tags: ["HTML", "CSS", "JavaScript"],
-    image: "/aicodereviewer.jpg",
-    repoUrl: "https://github.com/RITESH-CHAUHAN2005/AI-Code-Reviewer.git",
+      "SoftSell helps you convert unused software licenses into instant cash through a fast, secure, and transparent process. Unlock value from surplus software with ease and clarity.",
+    tags: ["HTML", "CSS", "JavaScript", "React", "Tailwind", "CSS", "Figma", "Vite", "Git", "GitHub", "Responsive Design"],
+    image: "/softsell.png",
+    repoUrl: "https://github.com/RITESH-CHAUHAN2005/Soft-Sell.git",
   },
   {
     title: "E-Commerce Platform",
